@@ -1,4 +1,4 @@
-# Jior python developer
+# Junior python developer
 My main development is a comic book site for Ukrainians: https://ova.pythonanywhere.com/
 
 # Github Statistics
