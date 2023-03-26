@@ -1,17 +1,23 @@
-# Junior python developer
-My main development is a comic book site for Ukrainians: https://ova.pythonanywhere.com/
+<p align="center">
+  <img src="img/welcome.gif">
+</p>
 
-# Github Statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anonimus007-700&show_icons=true&theme=onedark)
+<h1 align="center">Github Statistics</h1>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=anonimus007-700&show_icons=true&theme=onedark">
+ <img src="https://github-profile-trophy.vercel.app/?username=anonimus007-700&theme=onedark">
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anonimus007-700&theme=onedark)](https://github.com/anonimus007-700/github-profile-trophy)
 
-# My technology stack
-![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
-![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
-![django](https://img.shields.io/badge/-django-333?style=for-the-badge&logo=django)
-![python](https://img.shields.io/badge/-python-333?style=for-the-badge&logo=python)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anonimus007-700&theme=onedark)](https://github.com/anonimus007-700/github-readme-stats)
+<h1 align="center">My technology stack</h1>
+<p align="center">
+ <img src="https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5">
+ <img src="https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue">
+ <img src="https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git">
+ <img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub">
+ <img src="https://img.shields.io/badge/-django-333?style=for-the-badge&logo=django">
+ <img src="https://img.shields.io/badge/-python-333?style=for-the-badge&logo=python">
+</p>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonimus007-700&theme=onedark">
+</p>
