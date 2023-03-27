@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="img/welcome.gif">
+  <img src="img/welcome.gif"><br>
+  <a href="https://steamcommunity.com/id/kiborg_ubis/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
 </p>
 
 <h1 align="center">Github Statistics</h1>
