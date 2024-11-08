@@ -9,7 +9,6 @@
  <img src="https://github-profile-trophy.vercel.app/?username=anonimus007-700&theme=onedark">
 </p>
 
-
 <h1 align="center">My technology stack</h1>
 <p align="center">
  <img src="https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5">
@@ -22,3 +21,7 @@
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonimus007-700&theme=onedark">
 </p>
+
+<h1 align="center">Coding stats</h1>
+<p align="center">
+  <a href="https://wakatime.com/@21f002dd-6e04-4800-b71a-1907dd346e11"><img src="https://wakatime.com/badge/user/21f002dd-6e04-4800-b71a-1907dd346e11.svg" alt="Total time coded since Apr 15 2023" /></a>
