@@ -1,6 +1,8 @@
 <p align="center">
   <img src="img/welcome.gif"><br>
-  <a href="https://steamcommunity.com/id/RicardosMiloss/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+  <a href="https://steamcommunity.com/id/VerhovnaVlada/"><img alt="Static Badge" src="https://img.shields.io/badge/-Steam-333?style=for-the-badge&logo=steam&logoColor=%23005eff"></a>
+  <a href="https://t.me/my_bolt"><img alt="Static Badge" src="https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram"></a>
+
 </p>
 
 <h1 align="center">Github Statistics</h1>
