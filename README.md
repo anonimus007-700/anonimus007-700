@@ -15,8 +15,12 @@
  <img src="https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue">
  <img src="https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git">
  <img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub">
- <img src="https://img.shields.io/badge/-django-333?style=for-the-badge&logo=django">
+ <img alt="Static Badge" src="https://img.shields.io/badge/-django-333?style=for-the-badge&logo=django&logoColor=%230e8a00">
  <img src="https://img.shields.io/badge/-python-333?style=for-the-badge&logo=python">
+ <img alt="Static Badge" src="https://img.shields.io/badge/-Assembly Language-333?style=for-the-badge&logo=filen">
+ <img alt="Static Badge" src="https://img.shields.io/badge/-Linux-333?style=for-the-badge&logo=linux">
+
+
 </p>
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonimus007-700&theme=onedark">
